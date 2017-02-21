@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = function(context){
-    contest.log("Boogie");
+    context.log("Boogie");
     context.res =  {
         status: 200,
         headers: {
