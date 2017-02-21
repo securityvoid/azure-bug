@@ -1,0 +1,7 @@
+**/node_modules
+output/*
+input
+.idea
+.serverless
+dist
+npm-debug.log
