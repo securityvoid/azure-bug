@@ -7,7 +7,7 @@ module.exports = function(context){
         headers: {
             "Content-Type" : "application/json"
         },
-        body : { "status" : "alive"}
+        body : null
     }
     context.done();
 }
