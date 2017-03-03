@@ -1,0 +1,22 @@
+{
+  "name": "azure-bug",
+  "version": "1.0.0",
+  "description": "azure-bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/securityvoid/azure-bug.git"
+  },
+  "author": "Doug Logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/securityvoid/azure-bug/issues"
+  },
+  "homepage": "https://github.com/securityvoid/azure-bug#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
